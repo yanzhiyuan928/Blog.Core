@@ -92,6 +92,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Log\" />
     <Folder Include="wwwroot\BlogCore.Data.excel\" />
   </ItemGroup>
 
